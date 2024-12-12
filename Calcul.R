@@ -1,3 +1,5 @@
+library(tidyverse)
+
 Spiel <- data.frame(
   Preis_P = c(5, 0, 0, 0, 0),
   Nachfrage_N = c(0, 8, 7, 12, 15),
@@ -84,16 +86,16 @@ Compteur <- R-2
 
 
 Achat_G1 <- 
-Vente_G1 <-
+Vente_G1 <- 
 Stock_G1 <- Stock_G1 + Achat_G1 - Vente_G1
 
 Achat_G2 <- 
-Vente_G2 <-
+Vente_G2 <- 
 Stock_G2 <- Stock_G2 + Achat_G2 - Vente_G2
 
 
 Achat_G3 <- 
-Vente_G3 <-
+Vente_G3 <- 
 Stock_G3 <- Stock_G3 + Achat_G3 - Vente_G3
 
 
